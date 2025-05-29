@@ -11,7 +11,7 @@ import json
 wd = os.getcwd()
 
 # change the apk_dir according to the apk to test
-apk_dir = wd+r"/data/ground_truth_apks/non_obfuscated/"
+apk_dir = wd+r"/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/"
 lib_dir_dex = wd+r"/data/ground_truth_libs_dex/"
 lib_dir_jar = wd+r"/data/ground_truth_libs_jar/"
 

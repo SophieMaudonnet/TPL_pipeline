@@ -1,0 +1,208 @@
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LibHunter, library level:
+Precision: 0.90346, Recall: 0.99799, F1 score: 0.9484
+True positives: 1488, false positive: 159, false negative: 3 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LibHunter, version level:
+Precision: 0.17684, Recall: 0.99599, F1 score: 0.3004
+True positives: 1492, false positive: 6945, false negative: 6 
+ 
+This tool ran for 3 hours, 5 minutes and 29 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LibPecker with threshold 0.6, library level:
+Precision: 0.30289, Recall: 0.99866, F1 score: 0.4648
+True positives: 1489, false positive: 3427, false negative: 2 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LibPecker with threshold 0.6, version level:
+Precision: 0.07099, Recall: 0.99666, F1 score: 0.1325
+True positives: 1493, false positive: 19539, false negative: 5 
+ 
+This tool ran for 36 hours, 29 minutes and 58 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LibScan, library level:
+Precision: 0.95501, Recall: 0.99665, F1 score: 0.9754
+True positives: 1486, false positive: 70, false negative: 5 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LibScan, version level:
+Precision: 0.32554, Recall: 0.99466, F1 score: 0.4905
+True positives: 1490, false positive: 3087, false negative: 8 
+ 
+This tool ran for 2 hours, 20 minutes and 49 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LIBLOOM, library level:
+Precision: 0.84112, Recall: 0.99061, F1 score: 0.9098
+True positives: 1477, false positive: 279, false negative: 14 
+ 
+/home/ubuntu/data/ground_truth_apks/non_obfuscated/
+Tool LIBLOOM, version level:
+Precision: 0.10913, Recall: 0.98264, F1 score: 0.1964
+True positives: 1472, false positive: 12017, false negative: 26 
+ 
+This tool ran for 0 hours, 5 minutes and 40 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LibHunter, library level:
+Precision: 0.90852, Recall: 0.20854, F1 score: 0.3392
+True positives: 288, false positive: 29, false negative: 1093 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LibHunter, version level:
+Precision: 0.11115, Recall: 0.20548, F1 score: 0.1443
+True positives: 285, false positive: 2279, false negative: 1102 
+ 
+This tool ran for 3 hours, 34 minutes and 5 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LibScan, library level:
+Precision: 0.96257, Recall: 0.93121, F1 score: 0.9466
+True positives: 1286, false positive: 50, false negative: 95 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LibScan, version level:
+Precision: 0.31632, Recall: 0.92934, F1 score: 0.4720
+True positives: 1289, false positive: 2786, false negative: 98 
+ 
+This tool ran for 2 hours, 6 minutes and 12 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LIBLOOM, library level:
+Precision: 0.83811, Recall: 0.97466, F1 score: 0.9012
+True positives: 1346, false positive: 260, false negative: 35 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LIBLOOM, version level:
+Precision: 0.10862, Recall: 0.96828, F1 score: 0.1953
+True positives: 1343, false positive: 11021, false negative: 44 
+ 
+This tool ran for 0 hours, 5 minutes and 58 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LibPecker with threshold 0.6, library level:
+Precision: 0.30340, Recall: 0.91238, F1 score: 0.4554
+True positives: 1260, false positive: 2893, false negative: 121 
+ 
+/home/ubuntu/data/ground_truth_apks/allatori/
+Tool LibPecker with threshold 0.6, version level:
+Precision: 0.08037, Recall: 0.91060, F1 score: 0.1477
+True positives: 1263, false positive: 14452, false negative: 124 
+ 
+This tool ran for 32 hours, 23 minutes and 54 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LIBLOOM, library level:
+Precision: 0.73433, Recall: 0.97448, F1 score: 0.8375
+True positives: 1031, false positive: 373, false negative: 27 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LIBLOOM, version level:
+Precision: 0.09084, Recall: 0.96610, F1 score: 0.1661
+True positives: 1026, false positive: 10268, false negative: 36 
+ 
+This tool ran for 0 hours, 12 minutes and 36 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LibHunter, library level:
+Precision: 0.90107, Recall: 0.31853, F1 score: 0.4707
+True positives: 337, false positive: 37, false negative: 721 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LibHunter, version level:
+Precision: 0.13783, Recall: 0.31733, F1 score: 0.1922
+True positives: 337, false positive: 2108, false negative: 725 
+ 
+This tool ran for 3 hours, 36 minutes and 24 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LibScan, library level:
+Precision: 0.96961, Recall: 0.96503, F1 score: 0.9673
+True positives: 1021, false positive: 32, false negative: 37 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LibScan, version level:
+Precision: 0.29778, Recall: 0.93315, F1 score: 0.4515
+True positives: 991, false positive: 2337, false negative: 71 
+ 
+This tool ran for 2 hours, 9 minutes and 17 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LIBLOOM, library level:
+Precision: 0.82543, Recall: 0.99202, F1 score: 0.9011
+True positives: 870, false positive: 184, false negative: 7 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LIBLOOM, version level:
+Precision: 0.09252, Recall: 0.98068, F1 score: 0.1691
+True positives: 863, false positive: 8465, false negative: 17 
+ 
+This tool ran for 0 hours, 4 minutes and 26 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LibHunter, library level:
+Precision: 0.90393, Recall: 0.99772, F1 score: 0.9485
+True positives: 875, false positive: 93, false negative: 2 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LibHunter, version level:
+Precision: 0.15159, Recall: 0.99432, F1 score: 0.2631
+True positives: 875, false positive: 4897, false negative: 5 
+ 
+This tool ran for 2 hours, 22 minutes and 54 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LibScan, library level:
+Precision: 0.97003, Recall: 0.99658, F1 score: 0.9831
+True positives: 874, false positive: 27, false negative: 3 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LibScan, version level:
+Precision: 0.28595, Recall: 0.99432, F1 score: 0.4442
+True positives: 875, false positive: 2185, false negative: 5 
+ 
+This tool ran for 1 hours, 32 minutes and 59 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LibPecker with threshold 0.6, library level:
+Precision: 0.26010, Recall: 0.99886, F1 score: 0.4127
+True positives: 876, false positive: 2492, false negative: 1 
+ 
+/home/ubuntu/data/ground_truth_apks/proguard/
+Tool LibPecker with threshold 0.6, version level:
+Precision: 0.05877, Recall: 0.99545, F1 score: 0.1110
+True positives: 876, false positive: 14030, false negative: 4 
+ 
+This tool ran for 24 hours, 36 minutes and 20 seconds. 
+ 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LibPecker with threshold 0.6, library level:
+Precision: 0.20496, Recall: 0.46125, F1 score: 0.2838
+True positives: 488, false positive: 1893, false negative: 570 
+ 
+/home/ubuntu/data/ground_truth_apks/dasho/ctrl-fltn-rnm-rmv/
+Tool LibPecker with threshold 0.6, version level:
+Precision: 0.07784, Recall: 0.45669, F1 score: 0.1330
+True positives: 485, false positive: 5746, false negative: 577 
+ 
+This tool ran for 27 hours, 43 minutes and 22 seconds. 
+ 
+ 
